@@ -1,0 +1,60 @@
+                                        .heading {
+                                            font-family: "Roboto", sans-serif;
+                                            margin: 20px;
+                                            padding: 10px;
+                                            margin-left: 85px;
+                                            color: white;
+                                        }
+                                        
+                                        .paragraph {
+                                            font-family: "Roboto", sans-serif;
+                                            color: white;
+                                            margin-left: 10px;
+                                            padding-left: 10px;
+                                        }
+                                        
+                                        .div1 {
+                                            font-family: "Roboto", sans-serif;
+                                            color: white;
+                                            margin: 5px;
+                                        }
+                                        
+                                        .div2 {
+                                            font-family: "Roboto", sans-serif;
+                                            color: white;
+                                            margin: 5px;
+                                        }
+                                        
+                                        .btn {
+                                            font-family: "Roboto", sans-serif;
+                                            background-color: orange;
+                                            padding: 10px;
+                                            padding-left: 15px;
+                                            padding-right: 15px;
+                                            padding-top: 5px;
+                                            padding-bottom: 5px;
+                                            margin: 100px;
+                                            margin-top: 15px;
+                                            margin-left: 140px;
+                                            margin-bottom: 5px;
+                                            margin-right: 5px;
+                                            color: white;
+                                        }
+                                        
+                                        .div3 {
+                                            font-family: "Roboto", sans-serif;
+                                            margin-left: 45px;
+                                            margin-bottom: 5px;
+                                            padding-left: 60px;
+                                            text-decoration: underline;
+                                            color: white;
+                                        }
+                                        
+                                        .bg-image {
+                                            background-image: url("https://ik.imagekit.io/4z8covdo9/Full stack/todolistbg.png?updatedAt=1700761069523");
+                                            height: 600px;
+                                            width: 400px;
+                                            background-repeat: no-repeat;
+                                            background-size: cover;
+                                            margin: 450px;
+                                        }
